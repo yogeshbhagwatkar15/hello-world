@@ -4,15 +4,18 @@
     <p>Please fill in this form to create an account.</p>
     <hr>
 
-    <label for="Your email"><b>Email</b></label>
+    <label for="Yogesh email"><b>Email</b></label>
     <input type="text" placeholder="Enter Email" name="email" id="email" required>
+    <br>
 
-    <label for="psw"><b> MY Password</b></label>
+    <label for="psw"><b> Yogesh Password</b></label>
     <input type="password" placeholder="Enter Password" name="psw" id="psw" required>
+    <br>
 
-    <label for="psw-repeat"><b>Repeat Password</b></label>
+    <label for="psw-repeat"><b> Yogesh Repeat Password</b></label>
     <input type="password" placeholder="Repeat Password" name="psw-repeat" id="psw-repeat" required>
     <hr>
+    <br>
 
     <p>By creating an account you agree to our <a href="#">Terms & Privacy</a>.</p>
     <button type="submit" class="registerbtn">Register</button>
